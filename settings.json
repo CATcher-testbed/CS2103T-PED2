@@ -3,5 +3,5 @@
   "phaseBugReporting": "ped2",
   "phaseTeamResponse": "CS2103T-PED2-dev-response",
   "phaseTesterResponse": "ped2",
-  "phaseModeration": "CS2103T-PED2-tutor-moderation"
+  "phaseModeration": "CS2103T-PED2-moderation"
 }
